@@ -1,0 +1,6 @@
+Condition Handling Notes (Handle 2 Conditions)
+**********************************************
+
+	Agenda 
+    ******
+       Condition handling using IF, IF-ELSE,IF-ELSEIF-ELSE
