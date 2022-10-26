@@ -1,0 +1,38 @@
+
+Section 5: Step-by-Step  | For, While, Do-While, ForEach
+*********************************************************
+	When we use looping ...
+	***********************
+		Whenever we want to perform any task / group of task multiple time we can do it by using loop.
+		we can control the loop how many times u want to run it.
+		
+	Types of loops ...
+	*******************
+		1. For Loop  2. While Loop  3. Do While Loop  4.For Each loop (Advance For Loop)
+		
+	Rules for the loop ...
+	**********************
+	    Rule 1 - Whenever u r confirm how many times we need to run loop
+	    Rule 2 - Whenever the value increase/decrease constantly
+	    
+	Note - For & While loop are alternative to each other
+	
+	Rules of While loop ...
+	************************
+		Rule 1 - Starting value is defined before the loop
+		Rule 2 - Condition check is done inside the loop
+		Rule 3 - task should be written inside the body of the while loop
+		Rule 4 - increment / decrement should be written inside the body of while loop.
+		Rule 5 - Not confirm then use while loop
+		Rule 6 - Increment / Decrement is not constant then use while loop.	
+		
+	Notes of Do-While Loop
+	**********************
+		First it will execute the loop then we check the condition.
+		For & While loop are Entry control loop & Do-While loop are Exit control loop.
+	
+	Notes for ForEach loop
+	**********************
+		For Each loop is also known as Advance For loop.
+		This loop is applicable when we store the multiple data with same name.
+		For each loop is used for group of data.
