@@ -1,0 +1,7 @@
+Data 1 in File 1
+Data 2 in File 1
+Data 3 in File 1
+Data 4 in File 1
+Line 1 in File 2
+Line 2 in File 2 error
+Line 3 in File 2
