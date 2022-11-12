@@ -1,0 +1,77 @@
+What is String ??
+*****************
+
+String is a Class in Java
+*************************
+
+	When we write String s=”Testing Wold”
+	By this way we have created an object of the class String, as String is a special type of class, we need not to use new keyword to create object
+	String s=”TestingWorld”; 
+	is same as
+	String s=new String(“TestingWorld”);  
+
+
+Most usable functions of String class
+*************************************
+
+length()
+********
+	With length() functions we can find number of characters in a String
+
+toUpperCase()
+*************
+	convert string to upper case
+
+toLowerCase()
+*************
+	convert string to lower case
+
+trim()
+******
+   remove leading and trailing space
+
+charAt() 
+********
+	we can pick character from any specified index
+    indexing always start from 0
+
+replace()
+*********
+    replace a part of String or Character by other String or Character
+
+equals()
+*******
+    compare 2 string, case sensitive, return true/false
+
+equalsIgnoreCase()
+******************
+     Compare 2 string, ignore case, return true/false
+
+compareTo()
+***********
+    compare 2 string, case sensitive, return non zero in case of string not compared, zero in case of string compared
+
+compareToIgnoreCase()
+*********************
+    compare 2 string, case insensitive, return non zero in case of string not compared, zero in case of string compared
+
+concat ()
+*********
+    concatenation can be done by concat() function
+    concatenation can be done by + operator
+
+substring(startingPosition, endPosition)
+****************************************
+    Substring method is used to return part of the original string
+    We need to pass starting and end index(index started with 0)
+    It will pick value from start index till end index-1
+
+Split(“Spliter”)
+****************    
+     We can break our string on the behalf of some splitter
+     Here in our case we broke our String by space
+     Result of split function will be store in Array of String
+
+Replace()
+*********
+    with replace function, we can replace of part of the String by other String value
