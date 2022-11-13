@@ -79,3 +79,10 @@
 		********************************************
 			$ Multiple Inheritance is not directly supported by java but it is indirectly supporting through interface.
 		
+		!---Hybrid Inheritence using Interface---!
+		******************************************
+			$ Hybrid Inheritance is not directly supported by java but it is indirectly supported by Interface.
+			$ Can we inherit class into interface? 
+				No, Class can have concreate method. If we inherit class into interface then concreate method will transfer into interface.
+				Interface can never have concreate method.that's why can't inherit a class into interface. 
+		
