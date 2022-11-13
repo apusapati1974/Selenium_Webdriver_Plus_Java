@@ -1,0 +1,81 @@
+>>>OOPS In Detail (Object Oriented Programming)
+***********************************************
+	!---Encapsulation---!
+	*********************
+		$ Wrapping of data(variable) and functions in a single unit is called encapsulation.
+		$ In Encapsulation the variable of a class will be hidden from other class , and can be accessed throughout the methods of their current class.
+		  Therefore it is also known as data Hiding.
+		$ In Java, Classes are used to support Encapsulation.
+		$ Setter Method which is used to set the value of private variable.
+		$ Getter Method is used to fetch the value of an variable.
+	
+	!---To achieve encapsulation in java---!
+	****************************************
+		$ Declare the variable pf a class as private.
+		$ provide public setter & getter methods to modify & view the variable values.
+		
+	!---Inheritance---!
+	*******************
+		$ With the help of inheritance we can transfer the properties of a class to child class.
+		$ Inheritance is a mechanism where one object(Child Class) acquires the properties and behavior of parent object.
+		$ In inheritance you can create new classes that are built upon existing class structure.
+		$ When you inherit from an existing class you can reuse the methods and fields of parent class. You can add new methods and
+		  fields also.
+		$ Inheritance represents IS-A relationship, also known as parent-child class relationship.
+		
+		!---Advantages---!
+		******************
+			$ Overriding is Possible
+			$ Reduce duplication of code
+			$ Ease of code. 
+	
+		!---Types of Inheritance---!
+		****************************
+			$ Simple / Single Inheritance
+			$ Multilevel Inheritance
+			$ hierarchical Inheritance
+			$ Multiple Inheritance
+			$ Hybrid Inheritance
+		
+		!---Description of Inheritence Types---!
+		****************************************
+			$ Single Inheritance is directly supported by java.
+			$ Multiple & Hybrid inheritance are not directly supported by java, there is in-direct approch.
+			  Multiple & Hybrid inheritance are implemented through interface.
+			  
+		!---Polymorphism---!
+		********************
+			$ Same name - Different Use
+			$ Polymorphism is a capability of method to perform different things based on object that is acting upon.
+			
+		!---Overloading---!
+		*******************
+			$ If a class have more than 1 method with same name but different signature is called Overloading.
+			$ Signature means either number of arguments are different or their datatypes is different.
+			$ This is also called as early binding / compile time polymorphism
+			
+		!---Overridig---!
+		*****************
+			$ If Parent & Child class having same name & signature method is called Overriding.
+			$ it is also known as late binding or runtime polymorphism.
+			$ Here inheritance is mandatory
+			
+		!----Abstraction---!
+		********************
+			$ Abstraction is an OOPS Concept.
+			$ Used for Data Hiding & rule implementation.
+			$ Can be defined as method and class level.
+			$ 2 types of methods are - Concreate and Abstract
+			$ 2 Types of classes are - Concreate and Abstract
+			
+		!---Interface---!
+		*****************
+			$ Interface is quite similar to Abstraction	
+			$ Interface is quite similar to the classes but interface have only abstract method and constants.
+			$ We can inherit any interface with implements keyword.
+			$ In abstract class we have variables as well as constants but in interface we have only constants.
+		
+		!---Multiple Inheritance using Interface---!
+		********************************************
+			$ Multiple Inheritance is not directly supported by java but it is indirectly supporting through interface.
+		
