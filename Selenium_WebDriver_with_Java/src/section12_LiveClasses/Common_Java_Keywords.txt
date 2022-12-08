@@ -6,3 +6,16 @@ COMMON JAVA KEYWORDS
 		>> With the help of this keyword, we can differentiate between local and global members.
 		>> With the help of this keyword, we can call our own class members.
 		
+	2.Final Keyword
+	***************	
+		>> Final Keyword can be used in 3 cases
+		   # can be used with variable, it becomes constants.
+		   # can be used with the classes, it cannot be inherited.
+		   # can be used with the method,it cannot be override.
+    	>> if we want to create variable as constant we can use final.
+    	>> With the help of final keyword we can make constants.
+    	>> When ever we are making constants, it is mandatory to give the initial value.
+    	>> If it is constant it is not allowing to change the value.
+    	>> In Third approch we have an concept of Overriding
+    	   # So if the parent and child class have same name & same signature method that is called Overriding.
+    	 
