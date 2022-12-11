@@ -18,4 +18,20 @@ COMMON JAVA KEYWORDS
     	>> If it is constant it is not allowing to change the value.
     	>> In Third approch we have an concept of Overriding
     	   # So if the parent and child class have same name & same signature method that is called Overriding.
-    	 
+    3.Super Keyword
+    ***************
+    	>> With the help of super keyword, we can access parent class variable.
+    	>> With the help of super keyword, we can call parent class method in case of overriding.
+    	>> With the help of suuper keyword, we can call parent class constructor explicitly. 
+    	
+    4.Static Keyword
+    ****************
+    	>> These are the 4 items in Static Keyword.
+    	   # Call class members without creating object.
+    	   # Share data between multiple objects.
+    	   # Static members can access only other static members.
+    	   # Static block.
+    	>> The method which is non-static is called as Instance Method.
+    	>> We can use static keyword either with the method or a variable.
+    	>> The difference between Instance and Static method is - Instance Method which are non-static can be called only by creating 
+    	object of the class, But static method can be called by creating an object or by class name directly. 
