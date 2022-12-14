@@ -1,0 +1,5 @@
+Java - Fetch value from Property File
+*************************************
+
+	1. What is property file
+	   >>    

@@ -1,3 +1,29 @@
+
+Section 6  - String Handling : What is String, Use different functions available in String
+******************************************************************************************
+
+1. String Handling - Part 1
+***************************
+	What is String - String Functions(Length,Upper,Lower)
+	*****************************************************
+		$ String is not a data type. String is a class in Java Programming Language.
+		$ String is a pre-defined class in java,  it means it is already existed in java.
+		$ String handling means perform different operations by calling methods of string class.
+		
+	Group - 1
+	**********
+		$ Find the length of given string 
+		$ Remove the spaces from string(Leading & Trailing)
+		$ Take string to Upper Case & Lower Case
+		$ Find character at any specification index of string.  
+    Group - 2
+    *********
+    	$ Replace data in a string.
+    	$ Concatenate 2 or more strings.
+    	$ Find Sub-String in a string.
+    	$ Check a string exist in another string.
+    	$ Split string into multiple substrings.
+    	
 What is String ??
 *****************
 
@@ -74,4 +100,4 @@ Split(“Spliter”)
 
 Replace()
 *********
-    with replace function, we can replace of part of the String by other String value
+    with replace function, we can replace of part of the String by other String value	
