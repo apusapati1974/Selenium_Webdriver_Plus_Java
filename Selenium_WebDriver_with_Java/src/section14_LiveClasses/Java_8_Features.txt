@@ -5,3 +5,14 @@ Java 8 Features
 	   1.Static Method
 	   2.Default Method.
 	
+	Lambda Expressions
+	******************
+		>> A lambda expression is an anonymous function. A function that doesnot have a name and doesn't belong to any class.
+		>> To create an lambda expression, we can specify input parameters on the left side of lambda operator ->, and place
+		the expression or block of statements on the right side of the lambda operator.
+		>> To use lambda expression, you need to either create your own functional interface or use the predefined functional
+		interface provided by java.
+	 
+		Note : An interface with only single abstract method is called functional Interface.
+	 
+	 
